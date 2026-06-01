@@ -289,8 +289,6 @@ Berdasarkan hasil penelitian, beberapa strategi yang dapat diterapkan Indonesia 
 ├── Project akhir msib.ipynb
 ├── Tim 3B - Dashboard HD.pdf
 ├── Tim 3B - Deck.pdf
-├── dataset/
-├── images/
 └── README.md
 ```
 
@@ -298,12 +296,11 @@ Berdasarkan hasil penelitian, beberapa strategi yang dapat diterapkan Indonesia 
 
 ## Tim TerraBytes
 
-* Naufal Kholif Nashuha
-* Arnetta Dea Suryanti
-* Mohammad Rohmad Nur Khoirofiq
-* Havinka Angel Salsabilla
-* Muhammad Bayu Nugroho
-* Wianda Puspa Putri Utami
+* Mohammad Rohmad Nurkhoirofiq - Universitas Sriwijaya
+* Arnetta Dea Suryanti - Universitas Airlangga
+* Naufal Kholif Nashuha - Universitas Sebelas Maret
+* Havinka Angel Salsabilla - Universitas Muhammadiyah Semarang
+* Muhammad Bayu Nugroho - Universitas Nahdlatul Ulama Jepara
+* Wianda Puspa Putri Utami - Universitas Bina Insan
 
 ---
-Universitas Sriwijaya
